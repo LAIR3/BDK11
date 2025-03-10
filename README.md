@@ -1,4 +1,4 @@
-# Polygon CDK Kurtosis Package
+# Blockchain Deployment Kit
 
 A [Kurtosis](https://github.com/kurtosis-tech/kurtosis) package that deploys a private, portable, and modular [Polygon CDK](https://docs.polygon.technology/cdk/) devnet over [Docker](https://www.docker.com/) or [Kubernetes](https://kubernetes.io/).
 
